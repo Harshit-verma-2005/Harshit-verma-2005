@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 <h3 align="center">A dedicated software developer from India</h3>
 <!-- <img align="right" alt="coding" width=400 src="" /> -->
-![](https://leetcard.jacoblin.cool/harshit_verma_2005?ext=heatmap)
+<!-- ![](https://leetcard.jacoblin.cool/harshit_verma_2005?ext=heatmap) -->
+<img src="https://leetcard.jacoblin.cool/harshit_verma_2005?ext=heatmap&theme=light&animation=true" alt="Harshit Verma's LeetCode Stats">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-verma-2005&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-verma-2005" /> </p>
 
