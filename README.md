@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 <h3 align="center">A dedicated software developer from India</h3>
-<img align="right" alt="coding" width=400 src="[https://www.vecteezy.com/free-vector/coding-gif](https://static.vecteezy.com/system/resources/thumbnails/052/119/815/small/man-programmer-types-code-and-looks-at-camera-sitting-at-table-with-computer-and-laptop-vector.jpg)" />
+<img align="right" alt="coding" width=400 src="https://static.vecteezy.com/system/resources/thumbnails/052/119/815/small/man-programmer-types-code-and-looks-at-camera-sitting-at-table-with-computer-and-laptop-vector.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-verma-2005&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-verma-2005" /> </p>
 
