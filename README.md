@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harshit-verma-2005.github.io/portfolio/](https://harshit-verma-2005.github.io/portfolio/)
 
-- 📫 How to reach me **harshitverma01042005@gmail.com**
+- 📫 How to reach me **harshitverma6145@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
